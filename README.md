@@ -1,11 +1,9 @@
 # Computercraft Collection by iMilchshake
-
 ======
 
 A collection of computercraft scripts (tested with cc version 1.75)
 
 ## Links to Pastebin:
-
 ------
 
 [https://pastebin.com/V1e4RB2J](Farming Script V1.1)
