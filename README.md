@@ -4,7 +4,7 @@ A collection of computercraft scripts (tested with cc version 1.75)
 ## Links to Pastebin:
 [Farming Script V1.1](https://pastebin.com/V1e4RB2J/)
 
-[Recursive Miner V1.5a](https://pastebin.com/atkvenWK/)
+[Recursive Miner V1.5a](https://pastebin.com/atkvenWK/) (needs 1.64 to work)
 
 [Stair Script V1.0](https://pastebin.com/XJ0phkFs/)
 
