@@ -17,7 +17,7 @@
 --			-Proofer Gravelproof (looks a bit stupid but it works!)
 -- 
 -- 1.3a:	-Builds Bridges
---			-Will try to leak Liquid-Holes
+--			-Will try to leak Liquid-Holes (this doesnt work btw)
 --			-Detecting Ores Below!
 --
 -- 1.4a:    -Torch Reminder / Better Menu
